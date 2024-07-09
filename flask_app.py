@@ -7,5 +7,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Glory5 Flask WEB Site!'
+    return 'Glory5 Flask Site!'
 
