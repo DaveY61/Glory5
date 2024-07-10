@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Glory5 Flask Site!'
+    return 'Glory5 Flask Updated Site!'
 
 if __name__ == '__main__':
     app.run(debug=True)
